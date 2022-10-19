@@ -1,0 +1,4 @@
+Scenario,k1,k2,prob
+Recession,-0.10,0.20,0.4
+Stagnation,0,0.20,0.2
+Boom,0.20,0.10,0.4
