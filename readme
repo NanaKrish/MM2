@@ -2,7 +2,12 @@ https://raw.githubusercontent.com/shruthi-22/mm/main/readme.md
 Classic_EOQ.py
 Dynamic_EOQ_with_setup.py
 EOQ_with_price_break.py
-Question type - two security.py
-Question type 1.py 
+2Sec.py
+1Sec.py 
 soln.py
 
+euler.py
+rk.py - rangekutta
+simpson.py
+trap.py
+pcor.py
