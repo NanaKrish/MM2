@@ -11,6 +11,6 @@ rk.py - rangekutta
 simpson.py
 trap.py
 trap1.py
-pcor.py
+pcorr.py
 Nwseq.py
 swseq.py
